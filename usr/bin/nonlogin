@@ -1,0 +1,4 @@
+#!usr/bin/sh
+
+echo "Sorry, you\'re no premission to logon this accont, system\'ll exit."
+exit 1;
