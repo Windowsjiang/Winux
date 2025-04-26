@@ -1,5 +1,5 @@
 ## Winux Unix-Like OS
-[logo.jpeg](logo.jpeg)
+[Logo.jpeg](Logo.jpeg)
 Winux is a Open-source OS built-on Windows Source and Linux Kernel.
 Uses GNU glib compiler to compile the source.
 Included Zip Tools and [VScode](code.visualstdio.com) , MD5, SHA veriers.
